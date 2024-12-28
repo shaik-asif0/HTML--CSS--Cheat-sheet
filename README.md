@@ -2,9 +2,6 @@
 
 A simple, curated HTML5 and CSS cheat sheet.
 
-## Viewing the cheat sheet
-
-Just open [html-css-cheat-sheet.html](https://github.com/shaik-asif0/HTML--CSS--Cheat-sheet/HTML--CSS--Cheat-sheet) in your browser. There are no external dependencies.
 
 ## Features
 
